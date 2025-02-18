@@ -23,7 +23,7 @@ Thumbs.db
 *.sav  # Jupyter auto-saved checkpoints
 
 # Audio files and results (except example.wav)
-evaluation_data/
+# evaluation_data/
 
 # Evaluation results
 results.csv
